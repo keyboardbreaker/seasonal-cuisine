@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/seasonal-cuisine/static/media/hero-img.b8697c33.jpg"
   },
   {
-    "revision": "910378c3e3bc8dd5a279e022c945f794",
+    "revision": "697a4a8f9c4b6ac95bf9ba255e86b392",
     "url": "/seasonal-cuisine/index.html"
   }
 ];
