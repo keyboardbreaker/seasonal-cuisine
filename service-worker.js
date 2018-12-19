@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/seasonal-cuisine/precache-manifest.c8e4518ffaf04ca32074aa567cef06f2.js"
+  "/seasonal-cuisine/precache-manifest.526a6cc709e3f9810b99e0a08ea03bad.js"
 );
 
 workbox.clientsClaim();
